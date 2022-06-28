@@ -36,7 +36,7 @@ GitHub: [cardano-wallet-connector](https://github.com/dynamicstrategies/cardano-
 ## Introduction
 React JS is by far the most popular front-end framework and continues to grow fast, judging by the number of 
 Stackoverflow questions when compared to other frameworks such as Angular, Vue and Svetle ([source](https://gist.github.com/tkrotoff/b1caa4c3a185629299ec234d2314e190)). 
-It is also well documented, sothat a beginner with some Javascript knowledge can pick-it-up, 
+It is also well documented, so that a beginner with some Javascript knowledge can pick-it-up, 
 and powerful enough that more sophisticated full stack frameworks such as Next JS incorporate it.
 
 A Create React App is the command that any new application is created with in React JS and anyone who has used this framework before
